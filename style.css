@@ -1,5 +1,5 @@
 @font-face {
-  src: url(fonts/BluuNext-Titling.otf);
+  src: url('..fonts/BluuNext-Titling.otf');
   font-family: Bluu;
 }
 
@@ -18,5 +18,5 @@ p {
   font-family: Bluu, sans-serif;
   color: white;
   text-align: center;
-  
+
 }
