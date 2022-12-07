@@ -21,7 +21,7 @@ body{
   background-color: black;
   margin: 0;
   padding: 0;
-  
+
   background: url('https://acegif.com/wp-content/uploads/gifs/fire-15.gif');
   background-repeat: no-repeat;
   background-position: center;
@@ -68,7 +68,7 @@ h5 {
     height: 60vmin;
     float: left;
     margin: 10px;
-    margin-left: 60px;
+    margin-left: 80px;
     overflow: hidden;
     /* border: 20px solid #ffffff;
     border-radius: 8px;
@@ -79,7 +79,7 @@ h5 {
     height: 60vmin;
     float: left;
     margin: 10px;
-    margin-left: 60px;
+    margin-left: 80px;
     overflow: hidden;
 /* border style */
     /* border: 20px solid #ffffff;
@@ -91,7 +91,7 @@ h5 {
     height: 60vmin;
     float: left;
     margin: 10px;
-    margin-left: 60px;
+    margin-left: 80px;
     overflow: hidden;
 /* border style */
      /* border: 20px solid #ffffff;
