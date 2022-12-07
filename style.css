@@ -1,5 +1,5 @@
 @font-face {
-  src: url('..fonts/BluuNext-Titling.otf');
+  src: url('..fonts/BluuNext-Titling.otf') format('opentype');
   font-family: Bluu;
 }
 
