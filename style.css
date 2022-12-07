@@ -17,17 +17,31 @@ h2{
   color: white;
 }
 
-body, html{
+body{
   background-color: black;
   margin: 0;
   padding: 0;
+
 }
+
+html{
+  background: url('https://acegif.com/wp-content/uploads/gifs/fire-15.gif');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color: black
+}
+
 
 h3 {
   font-family: Bluu, garamond;
   font-size:18px;
   color: white;
   text-align: center;
+  border: 10px solid grey;
+  border-radius: 8px;
+  border-style: outset;
+  background-color: black;
 }
 
 h4 {
@@ -35,6 +49,10 @@ h4 {
   font-size:18px;
   color: white;
   text-align: center;
+  border: 10px solid grey;
+  border-radius: 8px;
+  border-style: outset;
+  background-color: black;
 }
 
 h5 {
@@ -42,6 +60,10 @@ h5 {
   font-size:18px;
   color: white;
   text-align: center;
+  border: 10px solid grey;
+  border-radius: 8px;
+  border-style: outset;
+  background-color: black;
 }
 
 .container{
@@ -51,9 +73,9 @@ h5 {
     margin: 10px;
     margin-left: 60px;
     overflow: hidden;
-    border: 20px solid #ffffff;
+    /* border: 20px solid #ffffff;
     border-radius: 8px;
-    border-style: outset;
+    border-style: outset; */
 }
 .container2{
     width: 60vmin;
@@ -63,9 +85,9 @@ h5 {
     margin-left: 60px;
     overflow: hidden;
 /* border style */
-    border: 20px solid #ffffff;
+    /* border: 20px solid #ffffff;
     border-radius: 8px;
-    border-style: outset;
+    border-style: outset; */
 }
 .container3{
     width: 60vmin;
@@ -75,9 +97,9 @@ h5 {
     margin-left: 60px;
     overflow: hidden;
 /* border style */
-     border: 20px solid #ffffff;
+     /* border: 20px solid #ffffff;
     border-radius: 8px;
-    border-style: outset;
+    border-style: outset; */
 }
 
 .wrapper{
